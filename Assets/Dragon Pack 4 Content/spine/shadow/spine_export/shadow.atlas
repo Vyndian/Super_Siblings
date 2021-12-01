@@ -1,0 +1,159 @@
+
+shadow.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow_head_3
+  rotate: true
+  xy: 415, 641
+  size: 147, 131
+  orig: 147, 131
+  offset: 0, 0
+  index: -1
+shadow_leg_L_1
+  rotate: false
+  xy: 972, 11
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+shadow_leg_L_2
+  rotate: true
+  xy: 524, 610
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+shadow_leg_L_3
+  rotate: false
+  xy: 207, 323
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+shadow_leg_R_1
+  rotate: true
+  xy: 839, 17
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+shadow_leg_R_2
+  rotate: false
+  xy: 524, 576
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+shadow_leg_R_3
+  rotate: false
+  xy: 915, 19
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+shadow_neck
+  rotate: false
+  xy: 415, 572
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+shadow_shadow
+  rotate: false
+  xy: 527, 25
+  size: 310, 45
+  orig: 310, 45
+  offset: 0, 0
+  index: -1
+shadow_tail
+  rotate: false
+  xy: 2, 268
+  size: 203, 104
+  orig: 203, 104
+  offset: 0, 0
+  index: -1
+shadow_wing_L_1
+  rotate: false
+  xy: 2, 374
+  size: 411, 414
+  orig: 411, 414
+  offset: 0, 0
+  index: -1
+shadow_wing_L_2
+  rotate: false
+  xy: 2, 2
+  size: 523, 252
+  orig: 523, 252
+  offset: 0, 0
+  index: -1
+shadow_wing_L_3
+  rotate: false
+  xy: 527, 72
+  size: 487, 182
+  orig: 487, 182
+  offset: 0, 0
+  index: -1
+shadow_wing_R_1
+  rotate: false
+  xy: 567, 558
+  size: 414, 462
+  orig: 414, 462
+  offset: 0, 0
+  index: -1
+shadow_wing_R_2
+  rotate: false
+  xy: 415, 256
+  size: 548, 300
+  orig: 548, 300
+  offset: 0, 0
+  index: -1
+shadow_wing_R_3
+  rotate: false
+  xy: 2, 790
+  size: 563, 230
+  orig: 563, 230
+  offset: 0, 0
+  index: -1
+
+shadow2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow_body
+  rotate: true
+  xy: 498, 8
+  size: 125, 184
+  orig: 125, 184
+  offset: 0, 0
+  index: -1
+shadow_head_1
+  rotate: false
+  xy: 684, 2
+  size: 136, 131
+  orig: 136, 131
+  offset: 0, 0
+  index: -1
+shadow_head_2
+  rotate: false
+  xy: 822, 2
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+shadow_wing_L_4
+  rotate: false
+  xy: 498, 135
+  size: 426, 300
+  orig: 426, 300
+  offset: 0, 0
+  index: -1
+shadow_wing_R_4
+  rotate: false
+  xy: 2, 36
+  size: 494, 399
+  orig: 494, 399
+  offset: 0, 0
+  index: -1

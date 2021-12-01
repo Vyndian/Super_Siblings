@@ -1,0 +1,195 @@
+
+terror.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+terror_arm_L_1
+  rotate: true
+  xy: 518, 138
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+terror_arm_R_1
+  rotate: true
+  xy: 518, 138
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+terror_arm_L_2
+  rotate: true
+  xy: 798, 314
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+terror_arm_R_2
+  rotate: true
+  xy: 798, 314
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+terror_arm_L_3
+  rotate: true
+  xy: 775, 465
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+terror_arm_R_3
+  rotate: true
+  xy: 775, 465
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+terror_arm_L_4
+  rotate: true
+  xy: 842, 312
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+terror_arm_R_4
+  rotate: true
+  xy: 842, 312
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+terror_body
+  rotate: false
+  xy: 2, 299
+  size: 459, 208
+  orig: 459, 208
+  offset: 0, 0
+  index: -1
+terror_head_1
+  rotate: false
+  xy: 396, 143
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+terror_head_2
+  rotate: false
+  xy: 798, 349
+  size: 120, 158
+  orig: 120, 158
+  offset: 0, 0
+  index: -1
+terror_head_3
+  rotate: false
+  xy: 463, 313
+  size: 167, 147
+  orig: 167, 147
+  offset: 0, 0
+  index: -1
+terror_leg_L_1
+  rotate: true
+  xy: 631, 251
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+terror_leg_R_1
+  rotate: true
+  xy: 631, 251
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+terror_leg_L_2
+  rotate: false
+  xy: 568, 147
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+terror_leg_R_2
+  rotate: false
+  xy: 568, 147
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+terror_leg_L_3
+  rotate: true
+  xy: 712, 261
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+terror_leg_R_3
+  rotate: true
+  xy: 712, 261
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+terror_neck
+  rotate: false
+  xy: 920, 402
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+terror_shadow
+  rotate: false
+  xy: 463, 462
+  size: 310, 45
+  orig: 310, 45
+  offset: 0, 0
+  index: -1
+terror_tail
+  rotate: false
+  xy: 518, 235
+  size: 111, 76
+  orig: 111, 76
+  offset: 0, 0
+  index: -1
+terror_wing_L_1
+  rotate: false
+  xy: 920, 351
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+terror_wing_L_2
+  rotate: false
+  xy: 210, 143
+  size: 184, 154
+  orig: 184, 154
+  offset: 0, 0
+  index: -1
+terror_wing_L_3
+  rotate: false
+  xy: 632, 312
+  size: 164, 148
+  orig: 164, 148
+  offset: 0, 0
+  index: -1
+terror_wing_R_1
+  rotate: false
+  xy: 518, 181
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+terror_wing_R_2
+  rotate: false
+  xy: 2, 141
+  size: 206, 156
+  orig: 206, 156
+  offset: 0, 0
+  index: -1
+terror_wing_R_3
+  rotate: false
+  xy: 2, 2
+  size: 184, 137
+  orig: 184, 137
+  offset: 0, 0
+  index: -1

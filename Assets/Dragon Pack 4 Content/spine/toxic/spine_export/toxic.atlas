@@ -1,0 +1,153 @@
+
+toxic.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+toxic_body
+  rotate: false
+  xy: 300, 388
+  size: 290, 122
+  orig: 290, 122
+  offset: 0, 0
+  index: -1
+toxic_head_1
+  rotate: false
+  xy: 795, 102
+  size: 158, 143
+  orig: 158, 143
+  offset: 0, 0
+  index: -1
+toxic_head_2
+  rotate: false
+  xy: 442, 79
+  size: 158, 159
+  orig: 158, 159
+  offset: 0, 0
+  index: -1
+toxic_head_3
+  rotate: false
+  xy: 282, 67
+  size: 158, 164
+  orig: 158, 164
+  offset: 0, 0
+  index: -1
+toxic_leg_L_1
+  rotate: false
+  xy: 343, 9
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+toxic_leg_R_1
+  rotate: false
+  xy: 343, 9
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+toxic_leg_L_2
+  rotate: false
+  xy: 973, 310
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+toxic_leg_R_2
+  rotate: false
+  xy: 973, 310
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+toxic_leg_L_3
+  rotate: false
+  xy: 282, 2
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+toxic_leg_R_3
+  rotate: false
+  xy: 282, 2
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+toxic_neck
+  rotate: true
+  xy: 442, 5
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+toxic_shadow
+  rotate: false
+  xy: 295, 240
+  size: 310, 45
+  orig: 310, 45
+  offset: 0, 0
+  index: -1
+toxic_tail
+  rotate: false
+  xy: 795, 247
+  size: 176, 89
+  orig: 176, 89
+  offset: 0, 0
+  index: -1
+toxic_wing_L_1
+  rotate: false
+  xy: 592, 369
+  size: 251, 141
+  orig: 251, 141
+  offset: 0, 0
+  index: -1
+toxic_wing_L_2
+  rotate: true
+  xy: 2, 2
+  size: 229, 145
+  orig: 229, 145
+  offset: 0, 0
+  index: -1
+toxic_wing_L_3
+  rotate: true
+  xy: 845, 338
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+toxic_wing_L_4
+  rotate: true
+  xy: 607, 241
+  size: 126, 186
+  orig: 126, 186
+  offset: 0, 0
+  index: -1
+toxic_wing_R_1
+  rotate: false
+  xy: 2, 357
+  size: 296, 153
+  orig: 296, 153
+  offset: 0, 0
+  index: -1
+toxic_wing_R_2
+  rotate: false
+  xy: 2, 233
+  size: 291, 122
+  orig: 291, 122
+  offset: 0, 0
+  index: -1
+toxic_wing_R_3
+  rotate: false
+  xy: 300, 287
+  size: 268, 99
+  orig: 268, 99
+  offset: 0, 0
+  index: -1
+toxic_wing_R_4
+  rotate: true
+  xy: 149, 9
+  size: 222, 131
+  orig: 222, 131
+  offset: 0, 0
+  index: -1
